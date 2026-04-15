@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-victorian-complaint",
+  "version": "0.1.0",
+  "description": "victorian-complaint MCP — wraps StupidAPIs (requires X-API-Key)",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "victorian-complaint"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-victorian-complaint"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
