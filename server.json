@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/victorian-complaint",
-  "title": "victorian complaint",
-  "description": "victorian-complaint MCP — wraps StupidAPIs (requires X-API-Key)",
-  "version": "0.1.0",
+  "title": "Victorian Complaint",
+  "description": "victorian-complaint MCP — wraps StupidAPIs (keyless — no credential needed)",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/victorian-complaint",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-victorian-complaint",
