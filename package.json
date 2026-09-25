@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-victorian-complaint",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "victorian-complaint MCP — wraps StupidAPIs (keyless — no credential needed)",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-cc7e66fe370c41f33ba07d9eb60450d3884d7f3b2f1224660ac2e4f206bf5f7b",
+    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
   }
 }
